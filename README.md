@@ -1,4 +1,5 @@
 # Cards Carousel
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c094ab0e-951e-467d-b8eb-885b26860636/deploy-status)](https://app.netlify.com/sites/cards-carousel/deploys)
 
 Cards Carousel is a reusable Carousel component made with Vanilla JavaScript, SASS and CSS Flexbox. 
 
