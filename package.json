@@ -1,0 +1,28 @@
+{
+  "name": "card-carousel",
+  "version": "1.0.0",
+  "description": "Cards Carousel reusable component in vanilla js",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "webpack --mode=development --config webpack.config.js",
+    "build-production": "cross-env NODE_ENV=production webpack --mode=production --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlo Cassanelli",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "autoprefixer": "^9.7.6",
+    "babel-loader": "^8.1.0",
+    "cross-env": "^7.0.2",
+    "css-loader": "^3.5.3",
+    "cssnano": "^4.1.10",
+    "mini-css-extract-plugin": "^0.9.0",
+    "postcss-loader": "^3.0.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}

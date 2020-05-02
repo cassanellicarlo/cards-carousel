@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# build output
+dist/
+
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
